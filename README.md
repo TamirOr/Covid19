@@ -15,9 +15,4 @@ Instructions:
 
 4. type: " make clean " to clean all .so .out files
 
-
-
-Extras:
-	- The bash script delete empty and .tmp files
-	- The 'help me' menu is showing all countries names 
 	
